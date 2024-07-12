@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "canvas-confetti": "1.9.3"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
 }
